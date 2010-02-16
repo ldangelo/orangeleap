@@ -7,3 +7,6 @@
 [submodule "orangeleap-common-security"]
 	path = orangeleap-common-security
 	url = git@github.com:/ldangelo/orangeleap-common-security.git
+[submodule "cas"]
+	path = cas
+	url = git@github.com:/ldangelo/orangeleap-cas.git
