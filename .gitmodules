@@ -1,0 +1,3 @@
+[submodule "tangerine"]
+	path = tangerine
+	url = git@github.com:/ldangelo/orangeleap-tangerine.git
