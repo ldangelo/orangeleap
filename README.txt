@@ -8,3 +8,4 @@ List of Projects
 - commonBuild                : Orange Leap's common build infrastructure used by all of our products.
 - orangeleap-common-security : Orangeleap's common security used by all of our products.
 - tangerine                  : Orange Leap's flagship open source constituent relationship management product.
+- clementine                 : Orange Leap's flagship end user reporting tool based on jasper server

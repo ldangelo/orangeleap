@@ -10,3 +10,6 @@
 [submodule "cas"]
 	path = cas
 	url = git@github.com:/ldangelo/orangeleap-cas.git
+[submodule "clementine"]
+	path = clementine
+	url = git@github.com:ldangelo/orangeleap-theguru.git
