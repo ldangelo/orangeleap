@@ -1,3 +1,9 @@
 [submodule "tangerine"]
 	path = tangerine
 	url = git@github.com:/ldangelo/orangeleap-tangerine.git
+[submodule "commonBuild"]
+	path = commonBuild
+	url = git@github.com:/ldangelo/orangeleap-common-build.git
+[submodule "orangeleap-common-security"]
+	path = orangeleap-common-security
+	url = git@github.com:/ldangelo/orangeleap-common-security.git
